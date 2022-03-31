@@ -22,13 +22,13 @@ Software:
 
 The top of the webpage contains a Jumbotron header followed by an article title on the left and paragraphs on the right. The page ends with a filter on the left and a table of UFO sightings on the right. Without any input to the filter, the table displays all 111 sightings. Notice there are five categories within the filter, namely date, city, state, country, and shape. 
 
-img1
+![webTop](https://user-images.githubusercontent.com/96349090/161052517-94103374-326d-4173-a637-3452d3e2e6ff.png)
 
-img2
+![webBottom](https://user-images.githubusercontent.com/96349090/161052557-19b65994-3313-45a4-99c5-fa77889fca74.png)
 
 Any input should be of the same form as that of the placeholder within each text box. Any deviation from the form will result in the filter not executing as desired. For instance, incorrectly filling out the date 01/10/2010 instead of 1/10/2010, or using uppercase for any of the other fields. Once an input is correctly filled, change to the filter is detected if we press enter on the keyboard or click anywhere on the webpage. The table is subsequently updated. An example of filtering the data can be seen below where the table returns three sightings within the state of Oregon.
 
-img3
+![webBottomFiltered](https://user-images.githubusercontent.com/96349090/161052600-55597381-ab88-4612-ad2e-6fc0eb49bc18.png)
 
 ---
 
