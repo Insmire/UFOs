@@ -1,6 +1,6 @@
 ## Overview
 
-The purpose of this project is to create a dynamic webpage to present UFO sightings. To this end, we style the HyperText Markup Language (HTML) file with CSS and Bootstrap v.4 content delivery network. Additionally we utilize JavaScript D3 library to filter and create a table within the HTML file and subsequently the webpage.
+The purpose of this project is to create a dynamic webpage to present UFO sightings. To this end, we utilize JavaScript D3 library to filter and create a table within the HyperText Markup Language (HTML) file and subsequently the webpage. We further style the HTML file with CSS and Bootstrap v.4 content delivery network.
 
 ---
 
@@ -13,6 +13,10 @@ Data source:
 <!-- "pip show <software>" in command prompt to see pip install ver -->
 <!-- pip show code from https://stackoverflow.com/questions/10214827/find-which-version-of-package-is-installed-with-pip -->
 Software:
+    Bootstrap
+    CSS
+    HTML
+    JavaScript
     Visual Studio Code (VSCode) 1.63.2
 
 ---
