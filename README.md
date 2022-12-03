@@ -44,3 +44,11 @@ One drawback of the webpage's current design is that input error may hinder the 
 As such, one recommendation for modification is to create a dropdown menu for each field of the filter. If the user has more than one criteria to filter, the dropdown option for each subsequent field chosen can also be modified to get dynamically narrower so the resulting table displayed is always non-empty. This also resolves the issue of filtering for multiple criteria where the matching data does not exist.
 
 Another recommendation may be to create a button for the filter so that the user completes updating the table when the appropriate fields are filled out. The current filter is updated every time a change occurs to the page, including inputting a new search criteria. If the user forgets to make a change such as press enter on the keyboard, the last criteria filled out will not be executed. By adding a button at the bottom of the filter this issue will be eliminated.
+
+---
+
+### Contact
+
+Email: show.wang94@gmail.com
+
+LinkedIn: [https://www.linkedin.com/in/show-kate-w-802b36168](https://www.linkedin.com/in/show-kate-w-802b36168)
