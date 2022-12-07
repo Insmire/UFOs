@@ -7,12 +7,14 @@ The purpose of this project is to create a dynamic webpage to present UFO sighti
 ## Resources
 
 Data source:
+
     data.js
     nasa.jpg
 
 <!-- "pip show <software>" in command prompt to see pip install ver -->
 <!-- pip show code from https://stackoverflow.com/questions/10214827/find-which-version-of-package-is-installed-with-pip -->
 Software:
+
     Bootstrap
     CSS
     HTML
