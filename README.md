@@ -4,25 +4,6 @@ The purpose of this project is to create a dynamic webpage to present UFO sighti
 
 ---
 
-## Resources
-
-Data source:
-
-    data.js
-    nasa.jpg
-
-<!-- "pip show <software>" in command prompt to see pip install ver -->
-<!-- pip show code from https://stackoverflow.com/questions/10214827/find-which-version-of-package-is-installed-with-pip -->
-Software:
-
-    Bootstrap
-    CSS
-    HTML
-    JavaScript
-    Visual Studio Code (VSCode) 1.63.2
-
----
-
 <!-- Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation. -->
 ## Results
 
@@ -46,6 +27,25 @@ One drawback of the current design of the webpage is that input errors may hinde
 As such, one recommendation for modification is to create a dropdown menu for each field of the filter. If the user has more than one criteria to filter, the dropdown option for each subsequent field chosen can also be modified to get dynamically narrower so the resulting table displayed is always non-empty. This also resolves the issue of filtering for multiple criteria where the matching data does not exist.
 
 Another recommendation may be to create a button for the filter so that the user completes updating the table when the appropriate fields are filled out. The current filter is updated every time a change occurs to the page, including inputting a new search criterion. If the user forgets to make a change such as pressing enter on the keyboard, the last criteria filled out will not be executed. By adding a button at the bottom of the filter this issue will be eliminated.
+
+---
+
+## Resources
+
+Data source:
+
+    data.js
+    nasa.jpg
+
+<!-- "pip show <software>" in command prompt to see pip install ver -->
+<!-- pip show code from https://stackoverflow.com/questions/10214827/find-which-version-of-package-is-installed-with-pip -->
+Software:
+
+    Bootstrap
+    CSS
+    HTML
+    JavaScript
+    Visual Studio Code (VSCode) 1.63.2
 
 ---
 
