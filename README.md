@@ -53,4 +53,4 @@ Another recommendation may be to create a button for the filter so that the user
 
 Email: show.wang94@gmail.com
 
-LinkedIn: [www.linkedin.com/in/s-k-wang](www.linkedin.com/in/s-k-wang)
+LinkedIn: [https://www.linkedin.com/in/s-k-wang](https://www.linkedin.com/in/s-k-wang)
