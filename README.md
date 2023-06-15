@@ -1,6 +1,6 @@
 ## Overview
 
-The purpose of this project is to create a dynamic webpage to present UFO sightings. To this end, I utilize JavaScript D3 library to filter and create a table within the HyperText Markup Language (HTML) file and subsequently the webpage. I further style the HTML file with CSS and Bootstrap v.4 content delivery network.
+The purpose of this project is to create a dynamic webpage to present UFO sightings. To this end, I utilize the JavaScript D3 library to filter and create a table within the HyperText Markup Language (HTML) file and subsequently the webpage. I further style the HTML file with CSS and Bootstrap v.4 content delivery network.
 
 ---
 
